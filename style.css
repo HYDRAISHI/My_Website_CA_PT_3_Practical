@@ -1,0 +1,66 @@
+body{
+    background-image: url("bg.jpg");
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    color: cyan;
+    font-family:minecraft ten;
+    font-size: xxx-large;
+}
+
+h2{
+    color:yellow;
+    font-size: xx-large;
+    font-family: free press;
+
+}
+
+p{
+    color:yellowgreen;
+    font-size: large;
+    font-family: strong brain;
+}
+
+ul{
+    color:tomato;
+    font-size: large;
+    font-family: vampire wars;
+}
+
+a{
+    color: wheat;
+    font-size: large;
+    font-family: strong brain;
+}
+
+dd{
+    color:violet;
+    font-size: large;
+    font-family: strong brain;
+}
+
+dt{
+    color:royalblue;
+    font-size: xx-large;
+    font-family: PacFont;
+}
+
+table{
+    border-style:groove;
+    border-color: white;
+    border-width: 10px;
+    font-size: 30px;
+    color:yellow;
+    font-family: arcadeclassic;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  
